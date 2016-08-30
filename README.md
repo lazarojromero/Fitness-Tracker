@@ -1,1 +1,2 @@
 # NoleFit-App
+NoleFit is an iOS application built using Swift that helps randomize and personalize a user's workouts. The user is able to select body parts and the application will randomly generate a workout based on the users choices. NoleFit also allows the user to manually select workouts and to save and keep record of progress such as repitions, sets, weight, etc. The database used to save records was RealmSwift.
